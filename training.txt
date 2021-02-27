@@ -1,0 +1,1 @@
+training was kill once avg loss < 0.0640
